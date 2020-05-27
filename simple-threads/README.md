@@ -1,2 +1,2 @@
 # Simple Threads
-Exercise to understadn how threads borrow
+Exercise to understand how threads borrow
